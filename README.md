@@ -1,12 +1,16 @@
 # Project name
-    > project description
     
-## Project subtitle
+### Project subtitle
+    project description
 
-## Installation
+### Usage
 
+### Installation
 ```
 some command goes here
 ```
+```
+maybe another command
+```
+### Contributors
 
-Author
