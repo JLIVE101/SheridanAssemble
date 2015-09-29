@@ -2,9 +2,9 @@
 # want to replicate it. This is the place you would do it. Or if you want to make something on your feel free.
 
 
-------------------------------------------------------------------------------------------------------------------------
------------------------                       THE THINGS YOU NEED TO KNOW                        -----------------------
-------------------------------------------------------------------------------------------------------------------------
+
+##THE THINGS YOU NEED TO KNOW
+
 
 
 #Git / Github
