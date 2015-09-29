@@ -1,6 +1,6 @@
 #Welcome!!
 Hi Welcome to Sheridan Assemble. Here we create things on the fly. IF you see something cool on the internet and you
-want to replicate it. This is the place you would do it. Or if you want to make something on your feel free.
+want to replicate it. This is the place you would do it. Or if you want to make something on your own feel free.
 Feel free to add anything to list below.
 
 
