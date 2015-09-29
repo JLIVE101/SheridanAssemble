@@ -31,5 +31,8 @@ Also consider learning LESS. I haven't learned it myself yet but it apparently m
 to use.
 
 #Grabbing data from 3rd party API's
-# Learn how to grab data from 3rd party API's, if you took mobile web application, you should know how to do this
-# already, google maps is an example of this & riot games api is another.
+Learn how to grab data from 3rd party API's, if you took mobile web application, you should know how to do this
+already, google maps is an example of this & riot games api is another.
+
+#Lynda.com is your friend, use it, its great. And its free for us
+lynda.sheridancollege.ca
