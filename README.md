@@ -1,5 +1,8 @@
-# Hi Welcome to Sheridan Assemble. Here we create things on the fly. IF you see something cool on the internet and you
-# want to replicate it. This is the place you would do it. Or if you want to make something on your feel free.
+#Welcome!!
+Hi Welcome to Sheridan Assemble. Here we create things on the fly. IF you see something cool on the internet and you
+want to replicate it. This is the place you would do it. Or if you want to make something on your feel free.
+Feel free to add anything to list below.
+
 
 
 
@@ -13,6 +16,7 @@ Alternatives for learning git are youtube videos you find yourself. Heres one I 
 
 #Foundation
 Foundation -> for styling and for building a responsive website with ease. also a must know
+Unfinished Tutorial: https://www.youtube.com/watch?v=mHfUBggf0zw&list=PL6gx4Cwl9DGD3PLy3DZHr6-LpCY7irPU8
 
 #PHP - Laravel Framework
 PHP Laravel Framekwork -> we're eventually going to transition into a web application but for now its just all
@@ -28,11 +32,15 @@ jQuery is staple, and obviously essential. If you don't know jQuery learn it now
 
 #LESS
 Also consider learning LESS. I haven't learned it myself yet but it apparently makes css a lot easier and its simple
-to use.
+to use. Unfinished Tutorial playlist https://www.youtube.com/watch?v=YQYJUeokqOY&list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy
 
 #Grabbing data from 3rd party API's
 Learn how to grab data from 3rd party API's, if you took mobile web application, you should know how to do this
 already, google maps is an example of this & riot games api is another.
 
 #Lynda.com is your friend, use it, its great. And its free for us
-lynda.sheridancollege.ca
+http://lynda.sheridancollege.ca
+
+#Other Resources
+https://www.youtube.com/user/thenewboston/playlists <- A collaboration of many tutorials and playlists for ideas!
+https://www.youtube.com/user/learncodeacademy/playlists <-- For Web Developers
